@@ -16,7 +16,7 @@ font-size: 20px;
 
 export const Item = styled.li`
 display: flex;
-justify-content: space-around;
+justify-content: space-between;
 margin-bottom: 12px;
 
 `

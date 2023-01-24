@@ -31,5 +31,6 @@ font-size: 24px;
 background-color: #CFF2C9;
 margin-top: 12px;
 
-:hover {background-color: #698C64;}
+:hover {background-color: #698C64;
+color: white;}
 `
